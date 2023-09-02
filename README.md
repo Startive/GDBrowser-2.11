@@ -1,4 +1,4 @@
-hi.. uh, please use this version of node: https://nodejs.org/download/release/v17.9.1/ because the latest just does not work and I wish it was stated in the original GD Browser but this is cologne we are talking about. 
+hi.. uh, please use this version of node: https://nodejs.org/download/release/v17.9.1/ because the latest one just does not work and I wish it was stated in the original GD Browser, but this is cologne we are talking about. 
 
 
 # GDBrowser
