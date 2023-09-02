@@ -1,8 +1,4 @@
-hi, this is colon from the future.
-
-what the FUCK was wrong with me back then???? seriously this is some of the worst code i've ever seen
-
-welp, here's the readme. but you've been warned,,,
+hi.. uh, please use this version of node: https://nodejs.org/download/release/v17.9.1/ because the latest just does not work and I wish it was stated in the original GD Browser but this is cologne we are talking about. 
 
 
 # GDBrowser
@@ -25,8 +21,9 @@ To run GDBrowser locally:
 2) Clone/download this repository  
 3) Open cmd/powershell/terminal in the main folder (with index.js)
 4) Type `npm i` to flood your hard drive with code that's 99% useless
-5) Type `node index` to run the web server
-6) GDBrowser is now running locally at http://localhost:2000
+5) (Optional) Type `npm audit fix` and do some random things
+6) Type `node index` to run the web server
+7) GDBrowser is now running locally at http://localhost:2000
 
 
 If you want to disable rate limits, ip forwarding, etc you can do so by modifying `settings.js`. Doing this is probably a good idea if you feel like obliterating Rob's servers for some reason. (please don't)
