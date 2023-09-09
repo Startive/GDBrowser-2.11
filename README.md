@@ -28,7 +28,7 @@ From Github:
 or
 
 1) Get the latest version of node
-2) Download this [archive](https://drive.google.com/file/d/10Gx_e77lBKNmEdXv8z2n6RlXzzBosYeq/view?usp=drive_link)
+2) Download this [archive](https://drive.google.com/file/d/12bOrvBdFr9mv1J8LMVqwQ-VCLGdREv0L/view?usp=sharing)
 3) Run `node index` in the root directory of the folder and boom it should work.
 
 
