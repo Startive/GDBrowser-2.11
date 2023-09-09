@@ -1,4 +1,4 @@
-hi.. uh, please use this version of node: https://nodejs.org/download/release/v17.9.1/ because the latest one just does not work and I wish it was stated in the original GD Browser, but this is cologne we are talking about. 
+hi.. uh, please use this version of node: https://nodejs.org/download/release/v17.9.1/ if you are going to install all the dependencies from this repository. this is because the latest one just does not work and I wish it was stated in the original GD Browser, but this is cologne we are talking about. 
 
 
 # GDBrowser
@@ -13,17 +13,23 @@ Sorry for my messy code. It's why I was skeptical about making this open source,
 
   
   ## How do I run this?
-If you're just here to use GDBrowser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
+Well, there are 2 ways
 
 
-To run GDBrowser locally:
-1) Install [node.js](https://nodejs.org/en/download/) if you don't already have it
+From Github:
+1) Install [node.js v17](https://nodejs.org/download/release/v17.9.1)
 2) Clone/download this repository  
 3) Open cmd/powershell/terminal in the main folder (with index.js)
 4) Type `npm i` to flood your hard drive with code that's 99% useless
 5) (Optional) Type `npm audit fix` and do some random things
 6) Type `node index` to run the web server
 7) GDBrowser is now running locally at http://localhost:2000
+
+or
+
+1) Get the latest version of node
+2) Download this [archive](https://drive.google.com/file/d/10Gx_e77lBKNmEdXv8z2n6RlXzzBosYeq/view?usp=drive_link)
+3) Run `node index` in the root directory of the folder and boom it should work.
 
 
 If you want to disable rate limits, ip forwarding, etc you can do so by modifying `settings.js`. Doing this is probably a good idea if you feel like obliterating Rob's servers for some reason. (please don't)
